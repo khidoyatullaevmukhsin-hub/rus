@@ -1,0 +1,6 @@
+{
+  "name": "Rus-tili Viktorina",
+  "description": "Interaktiv ruscha-o'zbekcha Viktorina o'yini: jamoaviy ballar, bonus kataklar va jadvaldan tezkor import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
